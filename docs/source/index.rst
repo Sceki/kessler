@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 kessler reference documentation
 ================================
 
