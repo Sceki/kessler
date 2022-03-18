@@ -1,5 +1,5 @@
 <div align="left">
-  <a href="https://github.com/kesslerlib/kessler"> <img height="120px" src="docs/kessler_logo.png"></a>
+  <a href="https://github.com/kesslerlib/kessler"> <img height="120px" src="docs/source/_static/kessler_logo.png"></a>
 </div>
 
 -----------------------------------------
@@ -18,7 +18,7 @@ The upcoming version of Kessler will inclue the probabilistic programming model 
 
 ## Authors
 
-* Giacomo Acciarini, University of Strathclyde
+* Giacomo Acciarini, University of Oxford
 * Francesco Pinto, University of Oxford
 * Francesca Letizia, European Space Agency
 * Chris Bridges, University of Surrey
@@ -36,10 +36,10 @@ Kessler is distributed under the GNU General Public License version 3. Get in to
 
 If you would like to learn more about or cite the techniques Kessler uses, please see the following papers:
 
-* Giacomo Acciarini, Francesco Pinto, Francesca Letizia, José A. Martinez-Heras, Klaus Merz, Christopher Bridges, and Atılım Güneş Baydin. 2021. “Kessler: a Machine Learning Library for Space Collision Avoidance.” In 8th European Conference on Space Debris.
+* Giacomo Acciarini, Francesco Pinto, Francesca Letizia, José A. Martinez-Heras, Klaus Merz, Christopher Bridges, and Atılım Güneş Baydin. 2021. [“Kessler: a Machine Learning Library for Spacecraft Collision Avoidance.”](https://conference.sdo.esoc.esa.int/proceedings/sdc8/paper/226) In 8th European Conference on Space Debris.
 ```
 @inproceedings{acciarini-2020-kessler,
-  title = {Kessler: a Machine Learning Library for Space Collision Avoidance},
+  title = {Kessler: a Machine Learning Library for Spacecraft Collision Avoidance},
   author = {Acciarini, Giacomo and Pinto, Francesco and Letizia, Francesca and Martinez-Heras, José A. and Merz, Klaus and Bridges, Christopher and Baydin, Atılım Güneş},
   booktitle = {8th European Conference on Space Debris},
   year = {2021}
